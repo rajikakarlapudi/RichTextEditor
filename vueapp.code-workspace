@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "vueapp",
+			"path": "."
+		}
+	],
+	"settings": {
+		"javascript.preferGoToSourceDefinition": true
+	}
+}
